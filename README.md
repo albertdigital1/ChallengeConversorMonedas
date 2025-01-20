@@ -9,7 +9,7 @@ El proyecto Conversor de Monedas es una solución práctica y funcional desarrol
 
 El Conversor de Monedas destaca por su enfoque educativo y práctico, diseñado para enseñar conceptos clave como el consumo de APIs, manipulación de datos JSON, y la presentación de información de manera clara y ordenada. Este desarrollo pone en práctica habilidades esenciales en Java, culminando en una herramienta intuitiva y eficiente.
 
-<b>Características del Conversor de Monedas</b>
+<h2>Características del Conversor de Monedas</h2>
 <h3>Configuración del Ambiente Java:</h3>
 -Preparación del entorno de desarrollo en Java para garantizar compatibilidad y eficiencia.
 -Uso de herramientas populares como IDEs y librerías estándar.
