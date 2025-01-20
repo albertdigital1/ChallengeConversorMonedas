@@ -14,7 +14,7 @@ El Conversor de Monedas destaca por su enfoque educativo y práctico, diseñado 
 -Preparación del entorno de desarrollo en Java para garantizar compatibilidad y eficiencia.
 -Uso de herramientas populares como IDEs y librerías estándar.
 
-<h3>Creación del Proyecto:
+<h3>Creación del Proyecto:</h3>   
 -Diseño modular del proyecto que facilita el mantenimiento y la escalabilidad.
 -Organización del código en paquetes para una mejor estructura.
 
